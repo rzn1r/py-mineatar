@@ -1,6 +1,9 @@
 # py-mineatar
+[![Tests](https://github.com/rzn1r/py-mineatar/actions/workflows/test.yml/badge.svg)](https://github.com/rzn1r/py-mineatar/actions/workflows/test.yml)
+[![Ruff Lint](https://github.com/rzn1r/py-mineatar/actions/workflows/lint.yml/badge.svg)](https://github.com/rzn1r/py-mineatar/actions/workflows/lint.yml)
 ![PyPI - Version](https://img.shields.io/pypi/v/py-mineatar)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-mineatar) ![License](https://img.shields.io/github/license/yourusername/py-mineatar)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-mineatar)
+![License](https://img.shields.io/github/license/rzn1r/py-mineatar)
 
 A Python wrapper for mineatar.io
 
