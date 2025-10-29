@@ -10,3 +10,5 @@ __all__ = [
     "APIError",
     "RateLimitError",
 ]
+
+__version__ = "1.0.1"
