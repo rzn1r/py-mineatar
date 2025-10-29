@@ -1,4 +1,7 @@
 # py-mineatar
+![PyPI - Version](https://img.shields.io/pypi/v/py-mineatar)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py-mineatar) ![License](https://img.shields.io/github/license/yourusername/py-mineatar)
+
 A Python wrapper for mineatar.io
 
 ## Installation
